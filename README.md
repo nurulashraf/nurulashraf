@@ -1,44 +1,44 @@
 
 ---
 
-# 👋 Hello, World! I'm Nurul Ashraf  
+# 👋 Hello, World! I'm [Your Name]  
 
-### 🎯 **On a Mission to Make Tech Work for People**  
+### 🎯 **On a Mission to Design Solutions and Decode Data**  
 
-Welcome to my corner of GitHub, where **creativity meets logic** and **curiosity drives innovation**! I'm a Kuala Lumpur-based **IT student** and aspiring **UX Researcher** with a passion for solving real-world problems through thoughtful design and reliable code.
+Welcome to my corner of GitHub, where **people-first design** meets **data-driven decisions**! I'm a Kuala Lumpur-based **IT student** with aspirations to thrive as a **UX Researcher** and a **Data Scientist**, blending creativity, logic, and curiosity to solve real-world challenges.  
 
 ---
 
 ### 🚀 **What Drives Me?**  
-- **People-first solutions:** Whether designing a system or debugging code, I aim to create tools that are intuitive and impactful.  
-- **Endless curiosity:** From **data science** to **human development**, I’m always exploring new ideas and turning them into action.  
-- **Building for tomorrow:** My dream is to lead a team that crafts products solving meaningful challenges.
+- **Designing for Impact:** I strive to create tools and systems that are not just functional but delightful for users.  
+- **Decoding Data:** I love transforming raw information into stories and solutions that make sense and solve problems.  
+- **Endless Curiosity:** Whether it’s researching user behaviours or analysing complex datasets, I’m always exploring and learning.  
 
 ---
 
 ### 🛠️ **What’s on My Workbench?**  
-- **💻 Tech Stack:** Proficient in Python, cloud computing basics, and system analysis, with a growing love for A/B testing and artificial intelligence.  
-- **🎮 Gaming Enthusiast:** Whether it's optimising my Cities: Skylines assets or diving into multiplayer FPS games, I understand the fine balance between aesthetics and performance.  
-- **📊 Data Explorer:** I love working with data to find insights that shape decisions and bring clarity to complex problems.
+- **💻 Tech Stack:** Proficient in Python, basic cloud computing, and AI concepts, with hands-on experience in A/B testing and system analysis.  
+- **📊 Data Explorer:** Enthusiastic about finding trends, building visualisations, and using data to tell stories.  
+- **🎮 Gamer with a Creative Edge:** My passion for gaming, including optimising Cities: Skylines assets, sharpens my eye for balance and functionality in any system.  
 
 ---
 
 ### 📚 **Current Adventures in Learning**  
-- Delving into **Artificial Intelligence** and **Cloud Computing** as part of my IT undergraduate.  
-- Sharpening my programming skills with hands-on projects in Python.  
-- Experimenting with **technology entrepreneurship** to bring bold ideas to life.  
+- Studying **Artificial Intelligence** and **Cloud Computing** as part of my IT Diploma coursework.  
+- Developing Python-based projects to improve my data analysis, visualisation, and programming skills.  
+- Exploring **technology entrepreneurship** to turn innovative ideas into reality.  
 
 ---
 
 ### 🌟 **Highlights So Far**  
-- **Academic Excellence:** With a CGPA of 3.96 and a GPA of 3.93 last semester, I’m committed to excelling in my studies.  
-- **Team Player:** My years in sales, delivery services, and market analysis have honed my collaboration and problem-solving skills.  
-- **Design Enthusiast:** I have a soft spot for minimalist aesthetics and user-centric design principles.  
+- **Academic Excellence:** My CGPA of 3.96 and last semester’s GPA of 3.93 reflect my dedication to learning and growth.  
+- **Real-world Skills:** My experience in sales, delivery services, and market analysis taught me how to connect with people and use data to inform decisions.  
+- **Design Enthusiast:** With a love for minimalist aesthetics, I aim to craft solutions that are as visually appealing as they are functional.  
 
 ---
 
 ### 🎯 **Looking for Opportunities? So Am I!**  
-If you're looking for someone who can **blend technical skills with human insights**, I’d love to collaborate or join your team! Whether it's **UX research**, **data-driven projects**, or **creative tech solutions**, let’s connect and make something amazing together.
+If you're searching for someone who bridges the gap between **user-centric design** and **data-driven insights**, I’d love to connect. Whether it’s **UX research**, **data analysis**, or **creative problem-solving**, let’s collaborate and build something amazing together.  
 
 ---
 
@@ -48,4 +48,3 @@ If you're looking for someone who can **blend technical skills with human insigh
 - 💼 LinkedIn: [linkedin.com/in/nurulashraf](https://www.linkedin.com/in/nurulashraf/) 
 
 ---
-
