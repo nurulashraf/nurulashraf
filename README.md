@@ -24,7 +24,7 @@ Welcome to my corner of GitHub, where **people-first design** meets **data-drive
 ---
 
 ### 📚 **Current Adventures in Learning**  
-- Studying **Artificial Intelligence** and **Cloud Computing** as part of my IT Diploma coursework.  
+- Studying **Artificial Intelligence** and **Cloud Computing** as part of my IT undergraduate coursework.  
 - Developing Python-based projects to improve my data analysis, visualisation, and programming skills.  
 - Exploring **technology entrepreneurship** to turn innovative ideas into reality.  
 
