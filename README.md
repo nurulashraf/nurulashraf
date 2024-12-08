@@ -1,7 +1,7 @@
 
 ---
 
-# 👋 Hello, World! I'm [Your Name]  
+# 👋 Hello, World! I'm Nurul Ashraf 
 
 ### 🎯 **On a Mission to Design Solutions and Decode Data**  
 
