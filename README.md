@@ -1,22 +1,12 @@
----
+👋 **Hello, World! I’m Nurul Ashraf!**  
 
-# 👋 Hello, World! I'm Nurul Ashraf!  
+🎯 **Merging Data, Design, and Technology to Solve Real-World Problems**  
+I’m an IT student based in Kuala Lumpur, passionate about crafting solutions that are functional, meaningful, and user-friendly. From analysing complex datasets to designing intuitive systems, I thrive at the intersection of data and user-focused design.  
 
-### 🎯 **Blending Data & Design to Solve Real-World Problems**  
+🛠️ **What I Bring to the Table**  
+- **Tech-Savvy**: Proficient in Python, AI basics, cloud computing, and system analysis.  
+- **Data Enthusiast**: Obsessed with uncovering insights and visualising data to solve problems.  
+- **Design-Focused**: Striving to create seamless and delightful user experiences.  
+- **Lifelong Learner**: Currently exploring Artificial Intelligence, Cloud Computing, and Entrepreneurship.  
 
-I’m an IT student based in Kuala Lumpur with a passion for combining **user-focused design** and **data-driven insights**. Whether it’s creating intuitive systems, analysing complex datasets, or turning ideas into impactful solutions, I’m always exploring new ways to make technology work for people.
-
-With experience in sales, market analysis, and systems design, I’m developing a unique skill set that bridges **UX research** and **data science**. My mission is to craft solutions that are not only functional but also meaningful and engaging.
-
----
-
-### 🛠️ **What I Do**  
-
-- **Tech Stack:** Proficient in Python, AI fundamentals, cloud computing, and system analysis.  
-- **Data Enthusiast:** Passionate about data visualisation, finding insights, and solving problems through numbers.  
-- **Design Lover:** Aiming to make user experiences as delightful as they are effective.  
-- **Learning Every Day:** Currently diving into **Artificial Intelligence**, **Cloud Computing**, and **Entrepreneurship**.  
-
-Let’s connect if you’re looking for someone who merges data analysis with user-centered design to create powerful solutions. I’d love to collaborate and grow together!
-
----
+If you’re looking for someone who combines data analysis with creative design to build impactful solutions, let’s connect!
