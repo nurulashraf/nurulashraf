@@ -1,12 +1,22 @@
-👋 **Hello, World! I’m Nurul Ashraf!**  
+# Nurul Ashraf
 
-🎯 **Merging Data, Design, and Technology to Solve Real-World Problems**  
-I’m an IT student based in Kuala Lumpur, passionate about crafting solutions that are functional, meaningful, and user-friendly. From analysing complex datasets to designing intuitive systems, I thrive at the intersection of data and user-focused design.  
+👋 **Hi there!**  
+I’m Nurul Ashraf, an IT student from Kuala Lumpur, passionate about creating impactful solutions through data, design, and technology.
 
-🛠️ **What I Bring to the Table**  
-- **Tech-Savvy**: Proficient in Python, AI basics, cloud computing, and system analysis.  
-- **Data Enthusiast**: Obsessed with uncovering insights and visualising data to solve problems.  
-- **Design-Focused**: Striving to create seamless and delightful user experiences.  
-- **Lifelong Learner**: Currently exploring Artificial Intelligence, Cloud Computing, and Entrepreneurship.  
+---
 
-If you’re looking for someone who combines data analysis with creative design to build impactful solutions, let’s connect!
+## 🚀 **What I Do**  
+- **Data & Design**: Turning insights into user-friendly experiences  
+- **Tech Enthusiast**: Proficient in Python, AI, Cloud Computing, and System Analysis  
+- **Continuous Learner**: Exploring AI, Cloud, and Entrepreneurship  
+
+---
+
+## 📈 **Skills**  
+- Python, System Analysis, Cloud Computing  
+- Data Visualisation, User Experience Design  
+- Problem Solving & Creative Solutions  
+
+---
+
+Let’s connect and build something great! 🚀
