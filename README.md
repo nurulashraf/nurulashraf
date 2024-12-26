@@ -1,3 +1,5 @@
+# Nurul Ashraf
+
 ## 👋 **Hi there!**  
 
 I’m Nurul Ashraf, an aspiring data scientist from Kuala Lumpur, passionate about creating impactful solutions through data, design, and technology.
