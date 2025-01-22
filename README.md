@@ -1,21 +1,13 @@
-## 👋 **Hi there!**  
+# 👋 Hi, I’m Nurul Ashraf  
 
-I’m Nurul Ashraf, an aspiring data scientist from Kuala Lumpur, passionate about creating impactful solutions through data, design, and technology.
-
----
-
-## 🚀 **What I Do**  
-- **Data & Design**: Turning insights into user-friendly experiences  
-- **Tech Enthusiast**: Proficient in Python, AI, Cloud Computing, and System Analysis  
-- **Continuous Learner**: Exploring AI, Cloud, and Entrepreneurship  
+Aspiring Data Scientist from Kuala Lumpur, passionate about transforming data into impactful solutions through design and technology.  
 
 ---
 
-## 📈 **Skills**  
-- Python, System Analysis, Cloud Computing  
-- Data Visualisation, User Experience Design  
-- Problem Solving & Creative Solutions  
+## 🚀 What I Do  
+- **Data & Design**: Insights and user-focused solutions  
+- **Tech Savvy**: Skilled in Python, Machine Learning, and Cloud Computing  
 
 ---
 
-Let’s connect and build something great! 🚀
+Let’s connect and create meaningful projects!  
